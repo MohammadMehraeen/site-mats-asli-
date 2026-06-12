@@ -1,0 +1,7 @@
+/* Keep article cover images fully visible inside cards */
+.article-card img {
+  object-fit: contain !important;
+  object-position: center center !important;
+  background: #ffffff !important;
+  padding: 6px;
+}
